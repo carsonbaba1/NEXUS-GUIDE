@@ -28,13 +28,13 @@ sudo apt upgrade
 
 # 3. QUICK INSTALLATION 
 
-```
+```bash
 curl https://cli.nexus.xyz/ | sh
 ```
 
 # 4. START COMMAND 
 
-```
+```bash
 nexus-network start --node-id <your-node-id>
 ```
 
