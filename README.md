@@ -1,6 +1,12 @@
 # **NEXUS-GUIDE - CLI**
 
- # 1.  INSTALL ALL REQUIREMENTS.
+# 1. MAKE A SCREEN 
+
+```bash
+SCREEN -S NEXUS
+```
+
+ # 2.  INSTALL ALL REQUIREMENTS.
 
 ```bash
   sudo apt update
@@ -19,7 +25,7 @@ sudo apt upgrade
 ```
 
 
-# 2. INSTALL RUST
+# 3. INSTALL RUST
 
 ```bash
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -39,13 +45,13 @@ sudo apt upgrade
   cargo build --release
 ```
 
-# QUICK INSTALLATION 
+# 4. QUICK INSTALLATION 
 
 ```
 curl https://cli.nexus.xyz/ | sh
 ```
 
-# START COMMAND 
+# 5. START COMMAND 
 
 ```
 nexus-network start --node-id <your-node-id>
@@ -53,7 +59,7 @@ nexus-network start --node-id <your-node-id>
 
 EDIT <your-node-id> WITH YOUR CLI/NODE ID 
 
-# HOW TO GET NODE ID ?
+❓ # HOW TO GET NODE ID ?
 
 # 1. VISIT THE WEBSITE https://app.nexus.xyz/nodes
 
