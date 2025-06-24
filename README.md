@@ -3,7 +3,7 @@
 # 1. MAKE A SCREEN 
 
 ```bash
-Screen -S NEXUS
+screen -S NEXUS
 ```
 
  # 2.  INSTALL ALL REQUIREMENTS.
