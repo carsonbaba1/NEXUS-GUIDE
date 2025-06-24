@@ -25,33 +25,14 @@ sudo apt upgrade
 ```
 
 
-# 3. INSTALL RUST
 
-```bash
-  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-
-
-```bash
-  git clone git@github.com:nexus-xyz/nexus-cli.git
-```
-
-```bash
-  cd clients/cli
-```
-
-
-```bash
-  cargo build --release
-```
-
-# 4. QUICK INSTALLATION 
+# 3. QUICK INSTALLATION 
 
 ```
 curl https://cli.nexus.xyz/ | sh
 ```
 
-# 5. START COMMAND 
+# 4. START COMMAND 
 
 ```
 nexus-network start --node-id <your-node-id>
