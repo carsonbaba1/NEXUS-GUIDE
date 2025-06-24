@@ -32,16 +32,18 @@ sudo apt upgrade
 curl https://cli.nexus.xyz/ | sh
 ```
 
+# NOW RESTART YOUR TERMINAL OR TAB 
+```bash
+source ~/.bashrc
+``` 
+
 # 4. START COMMAND 
 
 ```bash
 nexus-network start --node-id <your-node-id>
 ```
 
-# NOW RESTART YOUR TERMINAL OR TAB 
-```bash
-source ~/.bashrc
-``` 
+
 EDIT <your-node-id> WITH YOUR CLI/NODE ID 
 
 ❓ # HOW TO GET NODE ID ?
