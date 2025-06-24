@@ -55,4 +55,5 @@ EDIT <your-node-id> WITH YOUR CLI/NODE ID
 
 
 
-  git clone git@github.com:nexus-xyz/nexus-cli.git
+IF U HAVE ANY PROBLEM DM ME IN TG - @Babacarson
+ALSO JOIN MY TELEGRAM CHANNEL - http://t.me/weekshit_show
